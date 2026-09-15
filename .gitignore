@@ -1,0 +1,18 @@
+# Arquivos de validação local
+preview*.png
+.chrome-*/
+.edge-*/
+
+# Exportação original da página de referência (não usada na LP final)
+css/
+js/
+images/
+
+# Fontes não utilizadas
+fonts/*
+!fonts/12084922609e6532-s.p.woff2
+
+# Sistema e editores
+.DS_Store
+Thumbs.db
+.vscode/
